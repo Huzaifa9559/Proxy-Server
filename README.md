@@ -3,7 +3,7 @@ Proxy server configuration in computer settings:
 ![image](https://github.com/user-attachments/assets/6b1e7ec0-f975-40e3-b605-d5f5c8a95936)
 
 Example website http://example.com/favicon.ico
-
+ 
 ![image](https://github.com/user-attachments/assets/d0631990-b1a8-4834-a45b-8380eb877532)
 
 ![image](https://github.com/user-attachments/assets/03cec49a-5e97-4334-92e2-065077a60845)
